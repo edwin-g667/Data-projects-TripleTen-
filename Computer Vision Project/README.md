@@ -1,14 +1,11 @@
 # Computer Vision Project
 
 ## Description
-The supermarket chain Good Seed would like to explore whether Data Science can help them adhere to alcohol laws by making sure they do not sell alcohol to people underage. 
-You are asked to conduct that evaluation, so as you set to work, keep the following in mind:
-
+The goal of this project is to help supermarket chain Good Seed explore whether data science can help them adhere to alcohol laws by using machine learning to determine a persons age to prevent selling alcool to underage people. To accomplish this task a set of photographs of people with their ages has been provided. The loss function and mae decrease steadily through each epoch. However, the gap between training loss and mae and the validation loss and mae shows signs of extreme overfitting with the val_mae being more than double the training mae in some of the later epochs. The quality of the model is not good for determining customers ages.
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 1. Clone the repo
@@ -25,13 +22,9 @@ bash
 To start the application, run:
 bash
 npm start
-Additional usage instructions here.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
 
 ## Contact Information
 Your contact information or link to your GitHub profile.
