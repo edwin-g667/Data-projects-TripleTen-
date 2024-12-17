@@ -12,7 +12,7 @@ The goal of this project is to create a model for telecom operator Interconnect.
 1. Clone the repo
    
 bash
-   git clone https://github.com/yourusername/projectname.git
+   git clone https://github.com/edwin-g667/Data-projects-TripleTen-/tree/main/Final%20Project
    
 2. Install dependencies
    
@@ -23,7 +23,6 @@ bash
 To start the application, run:
 bash
 npm start
-Additional usage instructions here.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
