@@ -16,7 +16,7 @@ example:(0.19:  i didn t expect the reboot to be so good writers really cared ab
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [Contact Information](#contact_information)
+- [Contact Information](#contact-information)
 ## Installation
 1. Clone the repo
    
