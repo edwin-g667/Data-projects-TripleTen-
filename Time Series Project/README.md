@@ -1,4 +1,4 @@
-# Sweet Lift Taxi Orders Prediction
+# Time Series Project
 # Project Description
 The Sweet Lift Taxi company project aims to predict the number of taxi orders at airports for the next hour to attract more drivers during peak hours. The model developed should achieve an RMSE of no more than 48 on the test set.
 
