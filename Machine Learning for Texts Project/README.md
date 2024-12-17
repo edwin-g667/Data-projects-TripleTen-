@@ -12,7 +12,7 @@ This project aims to develop a system for filtering and categorizing movie revie
 1. Clone the repo
    
 bash
-   git clone https://github.com/edwin-g667/Data-projects-TripleTen-/tree/main/Computer%20Vision%20Project
+   git clone https://github.com/edwin-g667/Data-projects-TripleTen-/tree/main/Machine%20Learning%20for%20Texts%20Project
    
 2. Install dependencies
    
